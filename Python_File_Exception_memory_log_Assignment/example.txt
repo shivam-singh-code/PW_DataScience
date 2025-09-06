@@ -1,0 +1,3 @@
+Hello, this is a test string for file write.
+This line will be added in example file at the end.
+Another new line.
