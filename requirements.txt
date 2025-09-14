@@ -1,2 +1,8 @@
 ipykernel
 memory-profiler
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+nbformat
